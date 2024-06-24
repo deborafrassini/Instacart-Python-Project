@@ -8,7 +8,7 @@ In this project, it was used Python to:
 4. Perform data analysis
 5. Create visualization
 
-# Introduction
+**Introduction**
 You’re an analyst for an existing company, Instacart, an online grocery store
 that operates through an app. Instacart already has very good sales, but they
 want to uncover more information about their sales patterns. Your task is to
@@ -16,14 +16,14 @@ perform an initial data and exploratory analysis of some of their data in order
 to derive insights and suggest strategies for better segmentation based on
 the provided criteria.
  
-# Dataframes used
+**Dataframes used**
 * Customers;
 * Orders;
 * Orders_products_prior;
 * Products;
 * Departments.
 
-# Folders
+**Folders**
 
 The project files are stored in following folder structure:
 
@@ -33,7 +33,7 @@ The project files are stored in following folder structure:
 * 04 Analysis: The Visualizations subfolder contains the visualizations used for developing and explaining insights.
 * 05 Sent to Client: The final report presented in Excel
 
-# Tools:
+**Tools**
 Jupiter Notebook.
 Libraries used:
 * Pandas
@@ -44,6 +44,6 @@ Libraries used:
 * SciPy
 
 
-# Note: 
+**Note**
 Even though Instacart is a real company, the data was provided and fabricated
 by Carrer Foundry and are ficticious and for practice only.
