@@ -10,3 +10,6 @@ In this project, it was used Python to:
 
 The project requested to document all the actions taken in each of the 
 data tables, as well as to provide results and recommendations.
+
+Note: Even though Instacart is a real company, the data was provided
+by Carrer Foundry and can be ficticious.
