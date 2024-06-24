@@ -5,7 +5,7 @@ In this project, it was used Python to:
 1- Combine data tables, 
 2- Manipulate data sets, 
 3- Change data types, 
-4- Clean the data, 
+4- Clean the combined data, 
 5- Create visualization.
 
 The project requested to document all the actions taken in each of the 
